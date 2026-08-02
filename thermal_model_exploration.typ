@@ -20,7 +20,7 @@
 #let alphalouvClosed = 0.14
 #let alphalouvOpen = 0.14
 
-= Cargo Hopper Thermal Profile
+= Exploration Hopper Thermal Profile
 
 == Input Parameters Overview
 
